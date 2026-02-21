@@ -3,7 +3,8 @@
 ## About Me
 <!-- I'm currently working as an **Associate SW Systems Engineer at Extreme Networks**. With a strong passion for software engineering and systems development, I thrive on solving complex problems and creating innovative solutions.-->
 
-Currently, working as "Software Developement Engineer" in Applied Materials. Previously,  I interned at **Cleartrip [Flipkart groups]**, where I gained valuable experience in backend technology like java, spring boot and Python skills.
+Currently, working as "Software Developement Engineer" in Applied Materials. Detail-oriented developer at Applied Materials with hands-on experience in building scalable, reliable, and production-grade solutions. Results-driven C++ Developer with hands-on experience in system-level programming, debugging, and performance.
+Previously, I interned at **Cleartrip [Flipkart groups]**, where I gained valuable experience in backend technology like java, spring boot and Python skills.
 
 ## 🛠️ Skills & Technologies
 - **Languages**: C++, Python, Java, JavaScript
